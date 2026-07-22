@@ -76,6 +76,11 @@ python main.py
    - 点击“再次识别”可重新解锁画面并继续识别新目标。
 4. **🛡️ 开启活体检测**：
    - 点击“开启活体检测”，在指定时间内跟随提示完成 2 次眨眼即可通过真人验证。
+   - ![界面截图](<img width="1653" height="1067" alt="2dad47a3ce37b9217294ee9b99fa03b5" src="https://github.com/user-attachments/assets/561c402f-f726-4d6a-94ea-e726145e5747" />)
+   - ![界面截图](<img width="1653" height="1067" alt="667f5d6fd93c56febcd59d5441846110" src="https://github.com/user-attachments/assets/6dd5b8cf-a3cc-44c5-b3f7-c4b399969d3d" />)
+   - ![界面截图](<img width="1653" height="1067" alt="8f378ecc8fb38d12c288c2e8752c7cef" src="https://github.com/user-attachments/assets/36342058-d618-4bf0-a98e-ab083ff78c84" />)
+   - ![界面截图](<img width="1653" height="1067" alt="0f96e7d51c66d17fdaaec3ce89d7df0e" src="https://github.com/user-attachments/assets/dae073d1-2d26-435a-81ec-9437a781b0be" />)
+
 
 ---
 
